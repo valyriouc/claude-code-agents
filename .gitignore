@@ -55,3 +55,20 @@ temp/
 *.claude-agent
 agent-configs/private/
 secrets/
+
+# .NET
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+.vs/
